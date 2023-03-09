@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $USER
+echo $EFFECTIVE_USER_ID
