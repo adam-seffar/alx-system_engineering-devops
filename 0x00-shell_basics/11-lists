@@ -1,6 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -a
 cd ..
 ls -a
 cd /boot
 ls -a
+=======
+ls -la . .. /boot
+>>>>>>> e220d2abcd700f6071dcc470dd34565549734359
